@@ -1157,7 +1157,9 @@
     - perl-checkupdates-aur
     - perl-www-aur
     - picom
+    - playerctl
     - polybar
+    - pulseaudio
     - rofi
     - thunar
     - thunar-archive-plugin
