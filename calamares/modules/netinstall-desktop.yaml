@@ -7,7 +7,7 @@
     - arcolinux-awesome-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-rofi-git
@@ -16,7 +16,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - autorandr
     - awesome
     - dmenu
@@ -46,7 +46,7 @@
     - arcolinux-berry-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
@@ -56,7 +56,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - berry-dev-git
     - dmenu
     - feh
@@ -86,7 +86,7 @@
     - arcolinux-bspwm-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
@@ -96,7 +96,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - awesome-terminal-fonts
     - bspwm
     - dmenu
@@ -128,7 +128,7 @@
     - arcolinux-budgie-dconf-git
     - arcolinux-budgie-git
     - arcolinux-config-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-guake-autostart-git
     - arcolinux-root-git
     - archlinux-tweak-tool-git
@@ -151,7 +151,7 @@
     - arcolinux-root-git
     - archlinux-tweak-tool-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - cinnamon
     - cinnamon-translations
     - gnome-screenshot
@@ -171,7 +171,7 @@
     - arcolinux-chadwm-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-rofi-git
@@ -180,7 +180,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - lxappearance
@@ -223,7 +223,7 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-cwm-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
@@ -231,7 +231,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - autorandr
     - cwm
     - dmenu
@@ -259,7 +259,7 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-deepin-dconf-git
     - arcolinux-deepin-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-root-git
     - archlinux-tweak-tool-git
     - arcolinux-wallpapers-git
@@ -274,7 +274,7 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dk-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
@@ -284,7 +284,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dk
     - dmenu
     - feh
@@ -315,7 +315,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dusk-git
     - arcolinux-dwm-st-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-rofi-git
@@ -324,7 +324,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - lxappearance
@@ -352,7 +352,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dwm-git
     - arcolinux-dwm-slstatus-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-rofi-git
@@ -361,7 +361,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - gsimplecal
@@ -405,7 +405,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - fvwm3-git
@@ -433,7 +433,7 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-gnome-dconf-git
     - arcolinux-gnome-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-guake-autostart-git
     - arcolinux-root-git
     - archlinux-tweak-tool-git
@@ -454,7 +454,7 @@
   packages:
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-herbstluftwm-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
@@ -465,7 +465,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
     - feh
@@ -496,7 +496,7 @@
     - alacritty
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-hypr-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
@@ -507,7 +507,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - hypr-dev-git
@@ -536,7 +536,7 @@
   packages:
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-i3wm-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
@@ -548,7 +548,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - autotiling
     - dmenu
     - feh
@@ -589,7 +589,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - autorandr
     - dmenu
     - feh
@@ -627,7 +627,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - autorandr
     - dmenu
     - feh
@@ -668,7 +668,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - autorandr
     - dmenu
     - feh
@@ -706,14 +706,14 @@
   packages:
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-lxqt-git
     - arcolinux-root-git
     - archlinux-tweak-tool-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - lxappearance
     - lxqt
@@ -745,7 +745,7 @@
     - arcolinux-root-git
     - archlinux-tweak-tool-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - gnome-screenshot
     - mate
@@ -762,7 +762,7 @@
     - archlinux-logout-git
     - arcolinux-btop-git
     - arcolinux-config-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-nimdow-git
     - arcolinux-powermenu-git
@@ -772,7 +772,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - btop
     - dmenu
     - feh
@@ -809,7 +809,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-docs-git
     - arcolinux-geany-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-nitrogen-git
@@ -827,7 +827,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - geany
@@ -928,7 +928,7 @@
   packages:
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-qtile-git
@@ -938,7 +938,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
     - feh
@@ -967,7 +967,7 @@
   packages:
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
@@ -978,7 +978,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
     - feh
@@ -1009,14 +1009,14 @@
   selected: false
   packages:
     - arcolinux-config-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - arcolinux-qt5-git
     - arcolinux-root-git
     - archlinux-tweak-tool-git
     - arcolinux-ukui-dconf-git
     - arcolinux-ukui-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - arcolinux-wallpapers-git
     - dmenu
     - gnome-screenshot
@@ -1041,7 +1041,7 @@
   selected: false
   packages:
     - arcolinux-config-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-wmderland-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
@@ -1052,7 +1052,7 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - lxappearance
@@ -1081,7 +1081,7 @@
     - alacritty
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
@@ -1092,7 +1092,7 @@
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
     - arcolinux-worm-git
-    - arcolinux-xfce-git
+    - arconet-xfce
     - dmenu
     - feh
     - lxappearance
@@ -1128,7 +1128,7 @@
     - archlinux-logout-git
     - arcolinux-root-git
     - archlinux-tweak-tool-git
-    - arcolinux-xfce-git
+    - arconet-xfce
 - name: "Desktop: Xmonad"
   description: "Installs xmonad desktop"
   critical: false
@@ -1137,7 +1137,7 @@
   packages:
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
-    - arcolinux-gtk3-sardi-arc-git
+    - arcolinux-gtk3-surfn-arc-git
     - arcolinux-local-xfce4-git
     - archlinux-logout-git
     - arcolinux-polybar-git
