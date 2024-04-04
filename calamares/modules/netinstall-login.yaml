@@ -1,5 +1,5 @@
 - name: "Login Manager: Sddm"
-  description: "Installs sddm"
+  description: "Installs sddm - sddm is already installed"
   critical: false
   hidden: false
   selected: false
