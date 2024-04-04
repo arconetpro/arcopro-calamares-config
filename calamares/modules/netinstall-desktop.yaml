@@ -17,7 +17,6 @@
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
     - arconet-xfce
-    - autorandr
     - awesome
     - dmenu
     - feh
@@ -232,7 +231,6 @@
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
     - arconet-xfce
-    - autorandr
     - cwm
     - dmenu
     - feh
@@ -590,7 +588,6 @@
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
     - arconet-xfce
-    - autorandr
     - dmenu
     - feh
     - icewm
@@ -628,7 +625,6 @@
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
     - arconet-xfce
-    - autorandr
     - dmenu
     - feh
     - jwm
@@ -669,7 +665,6 @@
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
     - arconet-xfce
-    - autorandr
     - dmenu
     - feh
     - leftwm-dev-git
@@ -1147,8 +1142,8 @@
     - archlinux-tweak-tool-git
     - arcolinux-volumeicon-git
     - arcolinux-wallpapers-git
-    - arcolinux-xfce-git
     - arcolinux-xmonad-polybar-git
+    - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
     - feh
