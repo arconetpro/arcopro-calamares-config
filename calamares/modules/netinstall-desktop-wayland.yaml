@@ -9,10 +9,20 @@
     - archlinux-logout-git
     - arcolinux-hyprland-git
     - arcolinux-kitty-git
+    - arcolinux-powermenu-git
+    - arcolinux-rofi-git
+    - arcolinux-rofi-themes-git
+    - arcolinux-wayland-app-hooks-git
+    - arconet-xfce
+    - grim
     - hyprland-git
     - kitty
+    - mako
+    - rofi-lbonn-wayland-only-git
     - swaybg
     - thunar
+    - thunar-archive-plugin
+    - thunar-volman
     - ttf-jetbrains-mono-nerd
     - waybar-git
     - wofi
@@ -28,11 +38,20 @@
     - archlinux-logout-git
     - arcolinux-kitty-git
     - arcolinux-nwg-drawer-git
+    - arcolinux-powermenu-git
+    - arcolinux-rofi-git
+    - arcolinux-rofi-themes-git
     - arcolinux-sway-git
+    - arcolinux-wayland-app-hooks-git
+    - arconet-xfce
+    - grim
     - kitty
+    - mako
     - nwg-drawer-bin
     - rofi-lbonn-wayland-only-git
     - thunar
+    - thunar-archive-plugin
+    - thunar-volman
     - sway
     - swaybg
     - swayidle
@@ -55,6 +74,7 @@
     - arcolinux-rofi-themes-git
     - arcolinux-wallpapers-wayfire-git
     - arcolinux-wayfire-git
+    - arcolinux-wayland-app-hooks-git
     - arconet-xfce
     - feh
     - foot
@@ -71,6 +91,8 @@
     - swaylock
     - swww
     - thunar
+    - thunar-archive-plugin
+    - thunar-volman
     - ttf-jetbrains-mono-nerd
     - waybar-git
     - wayfire-git
