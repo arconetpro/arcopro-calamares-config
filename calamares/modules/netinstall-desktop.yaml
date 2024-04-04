@@ -866,32 +866,21 @@
     - arcolinux-root-git
     - archlinux-tweak-tool-git
     - pantheon
-- name: "Desktop: Plasma"
-  description: "Installs plasma desktop"
+- name: "Desktop: Plasma minimal"
+  description: "Installs plasma desktop with essential packages"
   critical: false
   hidden: false
   selected: false
   packages:
+    - archlinux-tweak-tool-git
+    - arcolinux-arc-kde
+    - arcolinux-plasma-keybindings-git
+    - arcolinux-plasma-servicemenus-git
     - arcolinux-plasma-theme-candy-beauty-arc-dark-git
     - arcolinux-plasma-theme-candy-beauty-nordic-git
     - arcolinux-plasma-theme-surfn-arc-dark-git
     - arcolinux-plasma-theme-surfn-nordic-git
-    - plasma
-    - kde-accessibility-meta
-    - kde-education-meta
-    - kde-games-meta
-    - kde-graphics-meta
-    - kde-multimedia-meta
-    - kde-network-meta
-    - kde-pim-meta
-    - kde-sdk-meta
-    - kde-system-meta
-    - kde-utilities-meta
-    - kdevelop-meta   
-    - arcolinux-arc-kde
     - arcolinux-root-git
-    - archlinux-tweak-tool-git
-    - arcolinux-wallpapers-git
     - ark
     - breeze
     - cryfs
@@ -910,7 +899,56 @@
     - ocs-url
     - okular
     - packagekit-qt5
+    - plasma
+    - spectacle
+    - surfn-plasma-dark-icons-git
+    - surfn-plasma-light-icons-git
+    - yakuake
+- name: "Desktop: Plasma full"
+  description: "Installs plasma desktop with all packages"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - archlinux-tweak-tool-git
+    - arcolinux-arc-kde
+    - arcolinux-plasma-theme-candy-beauty-arc-dark-git
+    - arcolinux-plasma-theme-candy-beauty-nordic-git
+    - arcolinux-plasma-theme-surfn-arc-dark-git
+    - arcolinux-plasma-theme-surfn-nordic-git
+    - arcolinux-root-git
+    - arcolinux-wallpapers-git
+    - ark
+    - breeze
+    - cryfs
+    - discover
+    - dolphin
+    - dolphin-plugins
+    - encfs
+    - ffmpegthumbs
+    - gocryptfs
+    - gwenview
+    - kate
+    - kde-accessibility-meta
+    - kde-education-meta
+    - kde-games-meta
+    - kde-graphics-meta
+    - kde-gtk-config
+    - kde-multimedia-meta
+    - kde-network-meta
+    - kde-pim-meta
+    - kde-sdk-meta
+    - kde-system-meta
+    - kde-utilities-meta
+    - kdeconnect
+    - kdenetwork-filesharing
+    - kdevelop-meta   
+    - ktorrent
+    - ocs-url
+    - okular
+    - packagekit-qt5
     - partitionmanager
+    - plasma
     - spectacle
     - surfn-plasma-dark-icons-git
     - surfn-plasma-light-icons-git
