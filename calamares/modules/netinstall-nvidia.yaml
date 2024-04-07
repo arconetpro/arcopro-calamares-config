@@ -50,6 +50,17 @@
     - nvidia-dkms
     - nvidia-settings
     - nvidia-utils
+- name: "Nvidia-dkms for linux-cachyos kernel"
+  description: "Installs nvidia-dkms for the cachyos kernel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - linux-cachyos
+    - linux-cachyos-headers
+    - nvidia-dkms
+    - nvidia-settings
+    - nvidia-utils
 - name: "Nvidia Related"
   description: "Nvidia related applications"
   critical: false

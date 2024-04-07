@@ -32,6 +32,14 @@
   packages:
     - linux-zen
     - linux-zen-headers
+- name: "Linux-cachyos kernel"
+  description: "Installs the cachys kernel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - linux-cachyos
+    - linux-cachyos-headers
 - name: "Intel-ucode"
   description: "Installs intel-ucode"
   critical: false
