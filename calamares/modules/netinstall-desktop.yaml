@@ -851,7 +851,7 @@
     - surfn-plasma-light-icons-git
     - yakuake
 - name: "Desktop: Plasma full"
-  description: "Installs plasma desktop with all packages"
+  description: "Installs plasma desktop with all (meta) packages"
   critical: false
   hidden: false
   selected: false
