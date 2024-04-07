@@ -876,16 +876,20 @@
     - gwenview
     - kate
     - kde-accessibility-meta
+    - kde-applications-meta
+    - kde-development-environment-meta
     - kde-education-meta
     - kde-games-meta
     - kde-graphics-meta
     - kde-gtk-config
     - kde-multimedia-meta
     - kde-network-meta
+    - kde-office-meta
     - kde-pim-meta
     - kde-sdk-meta
     - kde-system-meta
     - kde-utilities-meta
+    - kdevelop-meta
     - kdeconnect
     - kdenetwork-filesharing
     - kdevelop-meta   
@@ -894,7 +898,7 @@
     - okular
     - packagekit-qt5
     - partitionmanager
-    - plasma
+    - plasma-meta
     - spectacle
     - surfn-plasma-dark-icons-git
     - surfn-plasma-light-icons-git
