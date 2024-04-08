@@ -10,6 +10,7 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -46,6 +47,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -110,6 +112,7 @@
     - iso-flag-png
     - mintlocale
     - nemo-fileroller
+    - xed
     - xfce4-terminal
 - name: "Desktop: Chadwm"
   description: "Installs chadwm desktop"
@@ -121,16 +124,21 @@
     - archlinux-logout-git
     - archlinux-tweak-tool-git
     - arcolinux-chadwm-git
+    - arcolinux-chadwm-pacman-hook-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
     - arcolinux-volumeicon-git
     - arconet-xfce
+    - dash
     - dmenu
+    - eww
     - feh
+    - lolcat
     - lxappearance
     - picom
     - polkit-gnome
@@ -140,7 +148,6 @@
     - thunar-archive-plugin
     - thunar-volman
     - ttf-hack
-    - ttf-jetbrains-mono-nerd
     - ttf-meslo-nerd-font-powerlevel10k
     - volumeicon
     - xfce4-notifyd
@@ -162,6 +169,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-root-git
     - arcolinux-volumeicon-git
     - arconet-xfce
@@ -195,6 +203,7 @@
     - arcolinux-root-git
     - deepin
     - deepin-extra
+    - onboard
 - name: "Desktop: Dk"
   description: "Installs dk desktop"
   critical: false
@@ -208,6 +217,7 @@
     - arcolinux-dk-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -244,8 +254,10 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dusk-git
+    - arcolinux-dusk-pacman-hook-git
     - arcolinux-dwm-st-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -253,6 +265,7 @@
     - arconet-xfce
     - dmenu
     - feh
+    - lolcat
     - lxappearance
     - picom
     - polkit-gnome
@@ -279,8 +292,10 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dwm-git
+    - arcolinux-dwm-pacman-hook-git
     - arcolinux-dwm-slstatus-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -310,6 +325,8 @@
   hidden: false
   selected: false
   packages:
+    - acpi
+    - acpid
     - enlightenment
 - name: "Desktop: Fvwm3"
   description: "Installs fvwm3 desktop"
@@ -323,6 +340,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-fvwm3-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -358,14 +376,30 @@
     - arcolinux-gnome-git
     - arcolinux-guake-autostart-git
     - arcolinux-root-git
+    - chrome-gnome-shell
     - gnome
     - gnome-extra
+    - gnome-mplayer
+    - gnome-multi-writer
+    - gnome-pie
     - gnome-shell-extension-appindicator-git
     - gnome-shell-extension-dash-to-dock
     - gnome-shell-extension-pop-shell-git
     - gnome-system-tools
+    - gnome-tweaks
     - guake
+    - libappindicator-gtk3
+    - nautilus-image-converter
+    - pop-shell-shortcuts-git
+    - sushi
     - ttf-hack
+- name: "Desktop: Gnome extra - meta package"
+  description: "Installs gnome-extra meta package"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - gnome-extra
 - name: "Desktop: Herbstluftwm"
   description: "Installs herbstluftwm desktop"
   critical: false
@@ -379,6 +413,7 @@
     - arcolinux-herbstluftwm-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -419,6 +454,7 @@
     - arcolinux-local-xfce4-git
     - arcolinux-nitrogen-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -458,6 +494,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-icewm-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -493,6 +530,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-jwm-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -532,6 +570,7 @@
     - arcolinux-leftwm-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -539,8 +578,9 @@
     - arconet-xfce
     - dmenu
     - feh
-    - leftwm-dev-git
+    - leftwm-git
     - leftwm-theme-git
+    - lolcat
     - lxappearance
     - nerd-fonts-source-code-pro
     - nitrogen
@@ -577,9 +617,11 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
     - arcolinux-lxqt-git
+    - arcolinux-powermenu-git
     - arcolinux-root-git
     - arconet-xfce
     - dmenu
+    - ksuperkey
     - lxappearance
     - lxqt
     - lxqt-arc-dark-theme-git
@@ -651,7 +693,6 @@
     - thunar-media-tags-plugin
     - thunar-volman
     - ttf-hack
-    - ttf-jetbrains-mono-nerd
     - volumeicon
     - xfce4-notifyd
     - xfce4-power-manager
@@ -678,8 +719,7 @@
     - arcolinux-openbox-git
     - arcolinux-openbox-themes-git
     - arcolinux-pipemenus-git
-    - arcolinux-plank-git
-    - arcolinux-plank-themes-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -705,7 +745,6 @@
     - openbox-themes-pambudi-git
     - perl-linux-desktopfiles
     - picom
-    - plank
     - polkit-gnome
     - rofi
     - thunar
@@ -831,6 +870,7 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
+    - arcolinux-powermenu-git
     - arcolinux-qtile-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
@@ -851,6 +891,7 @@
     - thunar-archive-plugin
     - thunar-volman
     - volumeicon
+    - xcb-util-cursor
     - xfce4-notifyd
     - xfce4-power-manager
     - xfce4-screenshooter
@@ -869,6 +910,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
@@ -922,6 +964,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
     - arcolinux-polybar-git
+    - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
     - arcolinux-root-git
