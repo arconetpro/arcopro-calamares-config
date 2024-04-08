@@ -18,6 +18,7 @@
     - hyprland-git
     - kitty
     - mako
+    - picom
     - rofi-lbonn-wayland-only-git
     - swaybg
     - thunar
@@ -52,6 +53,7 @@
     - libdisplay-info
     - libliftoff
     - mako
+    - picom
     - polkit-gnome
     - rofi-lbonn-wayland-only-git
     - slurp
