@@ -33,7 +33,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background1
-            source: "cal01.jpg"
+            source: "01cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -48,7 +48,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background2
-            source: "01cal.jpg"
+            source: "02cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -62,7 +62,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background4
-            source: "cal01.jpg"
+            source: "03cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -76,7 +76,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background5
-            source: "01cal.jpg"
+            source: "04cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -90,7 +90,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background6
-            source: "cal01.jpg"
+            source: "05cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -104,7 +104,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background7
-            source: "01cal.jpg"
+            source: "06cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -118,7 +118,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background8
-            source: "cal01.jpg"
+            source: "07cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -132,7 +132,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background9
-            source: "01cal.jpg"
+            source: "08cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -146,7 +146,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background10
-            source: "cal01.jpg"
+            source: "09cal.jpg"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.PreserveAspectCrop
@@ -155,61 +155,6 @@ Presentation
 
     }
 
-    Slide {
-        anchors.fill: parent
-        anchors.verticalCenterOffset: 0
-        Image {
-            id: background11
-            source: "01cal.jpg"
-            width: parent.width; height: parent.height
-            verticalAlignment: Image.AlignTop
-            fillMode: Image.PreserveAspectCrop
-            anchors.fill: parent
-        }
-
-    }
-
-    Slide {
-        anchors.fill: parent
-        anchors.verticalCenterOffset: 0
-        Image {
-            id: background12
-            source: "cal01.jpg"
-            width: parent.width; height: parent.height
-            verticalAlignment: Image.AlignTop
-            fillMode: Image.PreserveAspectCrop
-            anchors.fill: parent
-        }
-
-    }
-
-    Slide {
-        anchors.fill: parent
-        anchors.verticalCenterOffset: 0
-        Image {
-            id: background13
-            source: "01cal.jpg"
-            width: parent.width; height: parent.height
-            verticalAlignment: Image.AlignTop
-            fillMode: Image.PreserveAspectCrop
-            anchors.fill: parent
-        }
-
-    }
-
-    Slide {
-        anchors.fill: parent
-        anchors.verticalCenterOffset: 0
-        Image {
-            id: background14
-            source: "cal01.jpg"
-            width: parent.width; height: parent.height
-            verticalAlignment: Image.AlignTop
-            fillMode: Image.PreserveAspectCrop
-            anchors.fill: parent
-        }
-
-    }
 
     function onActivate() {
           console.log("QML Component (default slideshow) activated");
