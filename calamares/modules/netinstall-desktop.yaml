@@ -367,12 +367,12 @@
     - arcolinux-guake-autostart-git
     - arcolinux-root-git
     - chrome-gnome-shell
+    - extension-manager
     - gnome
     - gnome-mplayer
     - gnome-multi-writer
     - gnome-shell-extension-appindicator-git
     - gnome-shell-extension-dash-to-dock
-    - gnome-shell-extension-pop-shell-git
     - gnome-system-tools
     - gnome-tweaks
     - guake
