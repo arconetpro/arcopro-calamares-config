@@ -5,7 +5,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-awesome-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
@@ -18,7 +17,6 @@
     - arconet-xfce
     - awesome
     - dmenu
-    - feh
     - lxappearance
     - picom
     - polkit-gnome
@@ -41,7 +39,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-bspwm-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
@@ -56,7 +53,6 @@
     - awesome-terminal-fonts
     - bspwm
     - dmenu
-    - feh
     - lxappearance
     - picom
     - polkit-gnome
@@ -81,7 +77,6 @@
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-budgie-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
@@ -91,14 +86,12 @@
     - budgie-extras
     - gnome
     - guake
-    - ttf-hack
 - name: "Desktop: Cinnamon"
   description: "Installs cinnamon desktop"
   critical: false
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-cinnamon-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
@@ -122,7 +115,6 @@
   packages:
     - alacritty
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-chadwm-git
     - arcolinux-chadwm-pacman-hook-git
     - arcolinux-config-all-desktops-git
@@ -137,7 +129,6 @@
     - dash
     - dmenu
     - eww
-    - feh
     - lolcat
     - lxappearance
     - picom
@@ -147,7 +138,6 @@
     - thunar
     - thunar-archive-plugin
     - thunar-volman
-    - ttf-hack
     - ttf-meslo-nerd-font-powerlevel10k
     - volumeicon
     - xfce4-notifyd
@@ -163,7 +153,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-cwm-git
     - arcolinux-dconf-all-desktops-git
@@ -175,7 +164,6 @@
     - arconet-xfce
     - cwm
     - dmenu
-    - feh
     - lxappearance
     - picom
     - polybar
@@ -196,7 +184,6 @@
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-deepin-git
@@ -232,7 +219,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dk-git
@@ -246,7 +232,6 @@
     - arconet-xfce
     - dk
     - dmenu
-    - feh
     - lxappearance
     - nerd-fonts-source-code-pro
     - picom
@@ -271,7 +256,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dusk-git
@@ -285,7 +269,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - lolcat
     - lxappearance
     - picom
@@ -309,7 +292,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-dwm-git
@@ -323,7 +305,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - gsimplecal
     - lxappearance
     - picom
@@ -347,7 +328,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-fvwm3-git
@@ -359,7 +339,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - fvwm3-git
     - gsimplecal
     - picom
@@ -382,7 +361,6 @@
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-gnome-git
@@ -390,10 +368,8 @@
     - arcolinux-root-git
     - chrome-gnome-shell
     - gnome
-    - gnome-extra
     - gnome-mplayer
     - gnome-multi-writer
-    - gnome-pie
     - gnome-shell-extension-appindicator-git
     - gnome-shell-extension-dash-to-dock
     - gnome-shell-extension-pop-shell-git
@@ -403,8 +379,6 @@
     - libappindicator-gtk3
     - nautilus-image-converter
     - pop-shell-shortcuts-git
-    - sushi
-    - ttf-hack
 - name: "Desktop: Gnome extra - meta package"
   description: "Installs gnome-extra meta package"
   critical: false
@@ -419,7 +393,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-herbstluftwm-git
@@ -433,7 +406,6 @@
     - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
-    - feh
     - herbstluftwm
     - lxappearance
     - picom
@@ -459,7 +431,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-i3wm-git
@@ -474,7 +445,6 @@
     - arconet-xfce
     - autotiling
     - dmenu
-    - feh
     - i3-wm
     - i3blocks
     - i3status
@@ -501,7 +471,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-icewm-git
@@ -513,7 +482,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - icewm
     - lxappearance
     - picom
@@ -537,7 +505,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-jwm-git
@@ -549,7 +516,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - jwm
     - lxappearance
     - picom
@@ -575,7 +541,6 @@
   packages:
     - a-candy-beauty-icon-theme-git
     - archlinux-logout-git    
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-gtk3-arcolinux-candy-beauty-git
@@ -589,7 +554,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - leftwm-git
     - leftwm-theme-git
     - lolcat
@@ -624,7 +588,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
@@ -657,7 +620,6 @@
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-mate-git
@@ -677,7 +639,6 @@
   packages:
     - alacritty
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-btop-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
@@ -690,7 +651,6 @@
     - arconet-xfce
     - btop
     - dmenu
-    - feh
     - lxappearance
     - nim
     - nimdow-bin
@@ -704,7 +664,6 @@
     - thunar-archive-plugin
     - thunar-media-tags-plugin
     - thunar-volman
-    - ttf-hack
     - volumeicon
     - xfce4-notifyd
     - xfce4-power-manager
@@ -719,7 +678,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-common-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
@@ -740,7 +698,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - feh
     - geany
     - gksu
     - gnome-screenshot
@@ -772,22 +729,12 @@
     - xfce4-taskmanager
     - xfce4-terminal
     - yad
-- name: "Desktop: Pantheon"
-  description: "Installs pantheon desktop"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - archlinux-tweak-tool-git
-    - arcolinux-root-git
-    - pantheon
 - name: "Desktop: Plasma minimal"
   description: "Installs plasma desktop with essential packages"
   critical: false
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-arc-kde
     - arcolinux-plasma-keybindings-git
     - arcolinux-plasma-servicemenus-git
@@ -825,7 +772,6 @@
   hidden: false
   selected: false
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-arc-kde
     - arcolinux-plasma-theme-candy-beauty-arc-dark-git
     - arcolinux-plasma-theme-candy-beauty-nordic-git
@@ -878,7 +824,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
@@ -891,7 +836,6 @@
     - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
-    - feh
     - lxappearance
     - picom
     - polkit-gnome
@@ -917,7 +861,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
@@ -930,7 +873,6 @@
     - arcolinux-wmderland-git
     - arconet-xfce
     - dmenu
-    - feh
     - lxappearance
     - picom
     - polkit-gnome
@@ -955,7 +897,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
@@ -971,7 +912,6 @@
   selected: false
   packages:
     - archlinux-logout-git
-    - archlinux-tweak-tool-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-local-xfce4-git
@@ -985,7 +925,6 @@
     - arconet-xfce
     - awesome-terminal-fonts
     - dmenu
-    - feh
     - haskell-dbus
     - lxappearance
     - perl-checkupdates-aur
