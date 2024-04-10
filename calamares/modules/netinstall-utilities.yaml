@@ -124,7 +124,6 @@
   expanded: true
   packages:
     - alsi
-    - archey3
     - bottom
     - btop
     - cpufetch-git
