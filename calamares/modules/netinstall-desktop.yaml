@@ -773,6 +773,8 @@
   selected: false
   packages:
     - arcolinux-arc-kde
+    - arcolinux-plasma-keybindings-git
+    - arcolinux-plasma-servicemenus-git
     - arcolinux-plasma-theme-candy-beauty-arc-dark-git
     - arcolinux-plasma-theme-candy-beauty-nordic-git
     - arcolinux-plasma-theme-surfn-arc-dark-git
