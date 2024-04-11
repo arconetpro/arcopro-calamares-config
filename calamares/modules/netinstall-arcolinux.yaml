@@ -1,16 +1,3 @@
-- name: "ArcoLinux Plasma Packages"
-  description: "ArcoLinux plasma packages"
-  critical: false
-  hidden: false
-  selected: false
-  expanded: true
-  packages:
-    - arcolinux-plasma-keybindings-git
-    - arcolinux-plasma-servicemenus-git
-    - arcolinux-plasma-theme-candy-beauty-arc-dark-git
-    - arcolinux-plasma-theme-candy-beauty-nordic-git
-    - arcolinux-plasma-theme-surfn-arc-dark-git
-    - arcolinux-plasma-theme-surfn-nordic-git
 - name: "ArcoLinux Meta Packages"
   description: "ArcoLinux meta packages"
   critical: false
