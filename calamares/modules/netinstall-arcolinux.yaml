@@ -44,6 +44,7 @@
     - arcolinux-reflector-simple-git
     - arcolinux-teamviewer
     - arcolinux-tellme-git
+    - sofirem-git
 - name: "ArcoLinux Arc Theming"
   description: "ArcoLinux arc theming packages"
   critical: false

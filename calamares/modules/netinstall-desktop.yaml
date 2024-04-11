@@ -106,7 +106,6 @@
     - mintlocale
     - nemo-fileroller
     - xed
-    - xfce4-terminal
 - name: "Desktop: Chadwm"
   description: "Installs chadwm desktop"
   critical: false
@@ -630,7 +629,6 @@
     - mate
     - mate-extra
     - mate-tweak
-    - xfce4-terminal
 - name: "Desktop: Nimdow"
   description: "Installs nimdow desktop"
   critical: false
