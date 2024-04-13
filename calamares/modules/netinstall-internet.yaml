@@ -6,7 +6,6 @@
   expanded: true
   packages:
     - brave-bin
-    - chrome-gnome-shell
     - chromium
     - chromium-widevine
     - falkon

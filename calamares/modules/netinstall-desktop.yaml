@@ -365,19 +365,15 @@
     - arcolinux-gnome-git
     - arcolinux-guake-autostart-git
     - arcolinux-root-git
-    - chrome-gnome-shell
     - extension-manager
     - gnome
     - gnome-mplayer
     - gnome-multi-writer
-    - gnome-shell-extension-appindicator-git
-    - gnome-shell-extension-dash-to-dock
     - gnome-system-tools
     - gnome-tweaks
     - guake
     - libappindicator-gtk3
     - nautilus-image-converter
-    - pop-shell-shortcuts-git
 - name: "Desktop: Gnome extra - meta package"
   description: "Installs gnome-extra meta package"
   critical: false
