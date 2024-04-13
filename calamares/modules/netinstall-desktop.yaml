@@ -363,17 +363,10 @@
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-gnome-git
-    - arcolinux-guake-autostart-git
     - arcolinux-root-git
     - extension-manager
     - gnome
-    - gnome-mplayer
-    - gnome-multi-writer
-    - gnome-system-tools
     - gnome-tweaks
-    - guake
-    - libappindicator-gtk3
-    - nautilus-image-converter
 - name: "Desktop: Gnome extra - meta package"
   description: "Installs gnome-extra meta package"
   critical: false
