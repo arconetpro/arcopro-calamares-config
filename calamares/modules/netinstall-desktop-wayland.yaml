@@ -21,7 +21,10 @@
     - kitty
     - lxappearance
     - mako
+    - micro
+    - pamixer
     - picom
+    - pulsemixer
     - rofi-lbonn-wayland-only-git
     - swaybg
     - thunar
@@ -59,7 +62,10 @@
     - libliftoff
     - lxappearance
     - mako
+    - micro
+    - pamixer
     - picom
+    - pulsemixer
     - polkit-gnome
     - rofi-lbonn-wayland-only-git
     - slurp
