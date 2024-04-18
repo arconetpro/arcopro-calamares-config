@@ -25,7 +25,7 @@
     - pamixer
     - picom
     - pulsemixer
-    - rofi-lbonn-wayland-only-git
+    - rofi-lbonn-wayland
     - swaybg
     - thunar
     - thunar-archive-plugin
@@ -67,7 +67,7 @@
     - picom
     - pulsemixer
     - polkit-gnome
-    - rofi-lbonn-wayland-only-git
+    - rofi-lbonn-wayland
     - slurp
     - swaybg
     - swayidle

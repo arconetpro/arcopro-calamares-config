@@ -20,7 +20,7 @@
     - lxappearance
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - thunar
     - thunar-archive-plugin
     - thunar-volman
@@ -57,7 +57,7 @@
     - picom
     - polkit-gnome
     - polybar
-    - rofi
+    - rofi-lbonn-wayland
     - sutils-git
     - sxhkd
     - thunar
@@ -132,7 +132,7 @@
     - lxappearance
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -236,7 +236,7 @@
     - picom
     - polkit-gnome
     - polybar
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -272,7 +272,7 @@
     - lxappearance
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -308,7 +308,7 @@
     - lxappearance
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -342,7 +342,7 @@
     - gsimplecal
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -399,7 +399,7 @@
     - picom
     - polkit-gnome
     - polybar
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -441,7 +441,7 @@
     - picom
     - polkit-gnome
     - polybar
-    - rofi
+    - rofi-lbonn-wayland
     - thunar
     - thunar-archive-plugin
     - thunar-volman
@@ -474,7 +474,7 @@
     - lxappearance
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - thunar
     - thunar-archive-plugin
     - thunar-volman
@@ -508,7 +508,7 @@
     - lxappearance
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -551,8 +551,7 @@
     - picom
     - polkit-gnome
     - polybar
-    - rofi
-    - rofi-theme-fonts
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -644,8 +643,7 @@
     - nitrogen
     - picom
     - polkit-gnome
-    - rofi
-    - rofi-theme-fonts
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -702,7 +700,7 @@
     - perl-linux-desktopfiles
     - picom
     - polkit-gnome
-    - rofi
+    - rofi-lbonn-wayland
     - thunar
     - thunar-archive-plugin
     - thunar-volman
@@ -831,7 +829,7 @@
     - python-psutil
     - python-setuptools
     - qtile
-    - rofi
+    - rofi-lbonn-wayland
     - thunar
     - thunar-archive-plugin
     - thunar-volman
@@ -866,7 +864,7 @@
     - picom
     - polkit-gnome
     - polybar
-    - rofi
+    - rofi-lbonn-wayland
     - sxhkd
     - thunar
     - thunar-archive-plugin
@@ -922,7 +920,7 @@
     - playerctl
     - polybar
     - pulseaudio
-    - rofi
+    - rofi-lbonn-wayland
     - thunar
     - thunar-archive-plugin
     - thunar-volman
