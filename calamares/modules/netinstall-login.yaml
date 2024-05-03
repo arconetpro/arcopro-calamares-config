@@ -20,7 +20,6 @@
     - lightdm
     - lightdm-gtk-greeter
     - lightdm-gtk-greeter-settings
-    - lightdm-settings
     - lightdm-slick-greeter
     - onboard
 - name: "Login Manager: Gdm"
