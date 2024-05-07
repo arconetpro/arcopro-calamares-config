@@ -61,6 +61,46 @@
     - nvidia-dkms
     - nvidia-settings
     - nvidia-utils
+- name: "Nvidia 340 drivers"
+  description: "Nvidia 340 drivers"
+  critical: false
+  hidden: false
+  selected: false
+  immutable: false
+  expanded: false
+  packages:
+    - nvidia-340xx-dkms
+    - nvidia-340xx-utils
+- name: "Nvidia 390 drivers"
+  description: "Nvidia 390 drivers"
+  critical: false
+  hidden: false
+  selected: false
+  immutable: false
+  expanded: false
+  packages:
+    - nvidia-390xx-dkms
+    - nvidia-390xx-utils
+- name: "Nvidia 470 drivers"
+  description: "Nvidia 470 drivers"
+  critical: false
+  hidden: false
+  selected: false
+  immutable: false
+  expanded: false
+  packages:
+    - nvidia-470xx-dkms
+    - nvidia-470xx-utils
+- name: "Nvidia 525 drivers"
+  description: "Nvidia 525 drivers"
+  critical: false
+  hidden: false
+  selected: false
+  immutable: false
+  expanded: false
+  packages:
+    - nvidia-525xx-dkms
+    - nvidia-525xx-utils
 - name: "Nvidia Related"
   description: "Nvidia related applications"
   critical: false
@@ -69,17 +109,24 @@
   immutable: false
   expanded: false
   packages:
+    - bbswitch
+    - bbswitch-dkms
     - bumblebee
     - bumblebee-status
     - bumblebee-status-git
     - cuda
+    - disper
     - envycontrol
     - gwe
     - nvflash
     - nvidia
     - nvidia-lts
+    - nvidia-open
+    - nvidia-open-dkms
     - nvidia-prime
     - nvidia-xrun
     - nvtop
     - optimus-manager
     - optimus-manager-qt
+    - primus
+    - supergfxctl
