@@ -6,7 +6,7 @@
   expanded: true
   packages:
     - cheese
-    - font-manager-git
+    - font-manager
     - galculator
     - gpick
     - flameshot-git

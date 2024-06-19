@@ -176,8 +176,6 @@
     - betterlockscreen-git
     - bleachbit
     - btrbk
-    - caffeine
-    - caffeine-ng
     - catfish
     - ckb-next-git
     - debtap
@@ -212,8 +210,6 @@
     - stacer-bin
     - systemd-manager-git
     - tlp
-    - tuxboot
-    - tuxboot-git
     - vnstat
     - wacom-settings-git
     - wireshark-qt
