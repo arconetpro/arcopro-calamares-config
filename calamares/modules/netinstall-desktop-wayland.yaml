@@ -17,7 +17,11 @@
     - arcolinux-wayland-app-hooks-git
     - arconet-xfce
     - grim
+    - hyprcursor-git
     - hyprland-git
+    - hyprlang-git
+    - hyprutils-git
+    - hyprwayland-scanner-git
     - kitty
     - lxappearance
     - mako
