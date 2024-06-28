@@ -39,3 +39,10 @@
   selected: false
   packages:
     - xf86-video-openchrome
+- name: "Xf86-video-intel"
+  description: "Installs xf86-video-intel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - xf86-video-intel
