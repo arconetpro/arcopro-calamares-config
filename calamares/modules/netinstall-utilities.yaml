@@ -71,7 +71,6 @@
     - flatpak
     - gnome-software
     - octopi
-    - octopi-notifier-qt5
     - pace
     - pace-git
     - pacui
