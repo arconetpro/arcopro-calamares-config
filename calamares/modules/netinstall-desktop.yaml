@@ -128,7 +128,6 @@
     - dash
     - dmenu
     - eww
-    - lolcat
     - lxappearance
     - picom
     - polkit-gnome
@@ -234,7 +233,6 @@
     - arcolinux-volumeicon-git
     - arconet-xfce
     - dmenu
-    - lolcat
     - lxappearance
     - picom
     - polkit-gnome
@@ -511,7 +509,6 @@
     - dmenu
     - leftwm-git
     - leftwm-theme-git
-    - lolcat
     - lxappearance
     - nerd-fonts-source-code-pro
     - nitrogen
