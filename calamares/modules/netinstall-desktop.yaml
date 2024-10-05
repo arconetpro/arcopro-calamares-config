@@ -329,7 +329,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-gnome-git
     - arcolinux-root-git
-    - extension-manager
+    - extension-manager-git
     - gnome
     - gnome-tweaks
 - name: "Desktop: Gnome extra - meta package"
