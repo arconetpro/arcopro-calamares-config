@@ -40,11 +40,12 @@
   selected: false
   expanded: true
   packages:
-    - gitahead
-    - gitg
+    - gitahead-git
     - gitfiend
+    - gitg
     - github-desktop-bin
     - gitkraken
+    - gittyup-git
 - name: "Password Manager"
   description: "Password managers"
   critical: false
