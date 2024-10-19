@@ -295,6 +295,7 @@
     - arcolinux-dconf-all-desktops-git
     - arcolinux-fvwm3-git
     - arcolinux-local-xfce4-git
+    - arcolinux-polybar-git
     - arcolinux-powermenu-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
@@ -306,6 +307,7 @@
     - gsimplecal
     - picom
     - polkit-gnome
+    - polybar
     - rofi-lbonn-wayland
     - sxhkd
     - thunar
