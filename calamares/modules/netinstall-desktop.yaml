@@ -84,7 +84,6 @@
     - arcolinux-root-git
     - budgie-desktop
     - budgie-extras
-    - gnome
     - guake
 - name: "Desktop: Cinnamon"
   description: "Installs cinnamon desktop"
