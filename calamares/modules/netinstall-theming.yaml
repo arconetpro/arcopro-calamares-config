@@ -133,7 +133,7 @@
   packages:
     - kvantum-theme-materia
     - kvantum-theme-qogir-git
-    - picom
+    - picom-git
     - picom-jonaburg-git
     - picom-ibhagwan-git
     - picom-git

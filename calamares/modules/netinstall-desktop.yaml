@@ -18,7 +18,7 @@
     - awesome
     - dmenu
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - thunar
@@ -54,7 +54,7 @@
     - bspwm
     - dmenu
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -128,7 +128,7 @@
     - dmenu
     - eww
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - sxhkd
@@ -162,7 +162,7 @@
     - cwm
     - dmenu
     - lxappearance
-    - picom
+    - picom-git
     - polybar
     - sxhkd
     - thunar
@@ -197,7 +197,7 @@
     - dmenu
     - lxappearance
     - nerd-fonts-source-code-pro
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -233,7 +233,7 @@
     - arconet-xfce
     - dmenu
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - sxhkd
@@ -269,7 +269,7 @@
     - dmenu
     - gsimplecal
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - sxhkd
@@ -304,7 +304,7 @@
     - dmenu
     - fvwm3-git
     - gsimplecal
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -362,7 +362,7 @@
     - dmenu
     - herbstluftwm
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -404,7 +404,7 @@
     - i3status
     - lxappearance
     - nitrogen
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -438,7 +438,7 @@
     - dmenu
     - icewm
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - thunar
@@ -472,7 +472,7 @@
     - dmenu
     - jwm
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - sxhkd
@@ -513,7 +513,7 @@
     - lxappearance
     - nerd-fonts-source-code-pro
     - nitrogen
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -554,7 +554,7 @@
     - lxqt-arc-dark-theme-git
     - obconf-qt
     - pavucontrol-qt
-    - picom
+    - picom-git
     - polkit-gnome
     - thunar
     - thunar-archive-plugin
@@ -606,7 +606,7 @@
     - nim
     - nimdow-bin
     - nitrogen
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - sxhkd
@@ -663,7 +663,7 @@
     - openbox-arc-git
     - openbox-themes-pambudi-git
     - perl-linux-desktopfiles
-    - picom
+    - picom-git
     - polkit-gnome
     - rofi-lbonn-wayland
     - thunar
@@ -789,7 +789,7 @@
     - awesome-terminal-fonts
     - dmenu
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - python-psutil
     - python-setuptools
@@ -826,7 +826,7 @@
     - arconet-xfce
     - dmenu
     - lxappearance
-    - picom
+    - picom-git
     - polkit-gnome
     - polybar
     - rofi-lbonn-wayland
@@ -881,7 +881,7 @@
     - lxappearance
     - perl-checkupdates-aur
     - perl-www-aur
-    - picom
+    - picom-git
     - playerctl
     - polybar
     - pulseaudio
