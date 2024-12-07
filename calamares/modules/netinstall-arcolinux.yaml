@@ -114,7 +114,7 @@
   expanded: true
   packages:
     - archlinux-login-backgrounds-git
-    - arcolinux-wallpapers-git
+    - arconet-wallpapers
     - arcolinux-wallpapers-candy-git
     - arcolinux-wallpapers-dual-git
 - name: "ArcoLinux Sddm themes"
