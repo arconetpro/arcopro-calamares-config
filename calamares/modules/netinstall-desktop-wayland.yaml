@@ -67,8 +67,8 @@
     - micro
     - pamixer
     - picom-git
-    - pulsemixer
     - polkit-gnome
+    - pulsemixer
     - rofi-lbonn-wayland
     - slurp
     - swaybg
@@ -87,5 +87,4 @@
     - wf-shell-git
     - wl-clipboard
     - wofi
-    - xdg-desktop-portal-wlr
     - xfce4-terminal
