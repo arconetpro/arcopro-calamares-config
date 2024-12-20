@@ -296,10 +296,6 @@ QTreeView {
 	show-decoration-selected: 0;
 }
 
-QTreeView::item {
-	padding: 2px;
-}
-
 QTreeView::item:selected {
 	background: #58B2D7;
 	font: bold;
