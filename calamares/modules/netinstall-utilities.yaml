@@ -131,7 +131,6 @@
     - cpu-x
     - dmidecode
     - duf
-    - edid-decode-git
     - fastfetch
     - fastfetch-git
     - glances
