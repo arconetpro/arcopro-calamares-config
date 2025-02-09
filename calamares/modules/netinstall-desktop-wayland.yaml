@@ -35,6 +35,8 @@
     - pulsemixer
     - rofi-lbonn-wayland
     - swaybg
+    - swayidle
+    - swaylock
     - thunar
     - thunar-archive-plugin
     - thunar-volman
@@ -76,6 +78,8 @@
     - pulsemixer
     - rofi-lbonn-wayland
     - swaybg
+    - swayidle
+    - swaylock
     - thunar
     - thunar-archive-plugin
     - thunar-volman
