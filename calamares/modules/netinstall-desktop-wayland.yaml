@@ -6,8 +6,10 @@
   immutable: false
   expanded: false
   packages:
+    - a-candy-beauty-icon-theme-git
     - archlinux-logout-git
     - arcolinux-alacritty-git
+    - arcolinux-btop-git
     - arcolinux-hyprland-git
     - arcolinux-kitty-git
     - arcolinux-powermenu-git
@@ -16,6 +18,8 @@
     - arcolinux-rofi-themes-git
     - arcolinux-wayland-app-hooks-git
     - arconet-xfce
+    - btop
+    - dex
     - grim
     - hyprcursor-git
     - hyprland-git
@@ -27,7 +31,7 @@
     - mako
     - micro
     - pamixer
-    - picom-git
+    - python-pywal
     - pulsemixer
     - rofi-lbonn-wayland
     - swaybg
@@ -39,6 +43,47 @@
     - waybar-git
     - wofi
     - xfce4-terminal
+    - yad
+- name: "Desktop: Niri - Wayland"
+  description: "Installs niri - only on real metal"
+  critical: false
+  hidden: false
+  selected: false
+  immutable: false
+  expanded: false
+  packages:
+    - a-candy-beauty-icon-theme-git
+    - archlinux-logout-git
+    - arcolinux-alacritty-git
+    - arcolinux-btop-git
+    - arcolinux-niri-git
+    - arcolinux-powermenu-git
+    - arcolinux-pywal-cache-git
+    - arcolinux-rofi-git
+    - arcolinux-rofi-themes-git
+    - arcolinux-wayland-app-hooks-git
+    - arconet-xfce
+    - btop
+    - dex
+    - grim
+    - lxappearance
+    - mako
+    - micro
+    - niri
+    - pamixer
+    - python-pywal
+    - polkit-gnome
+    - pulsemixer
+    - rofi-lbonn-wayland
+    - swaybg
+    - thunar
+    - thunar-archive-plugin
+    - thunar-volman
+    - ttf-jetbrains-mono-nerd
+    - waybar-git
+    - wofi
+    - xwayland-satellite
+    - yad
 - name: "Desktop: Wayfire - Wayland"
   description: "Installs wayfire - only on real metal"
   critical: false
@@ -50,6 +95,7 @@
     - a-candy-beauty-icon-theme-git
     - archlinux-logout-git
     - arcolinux-alacritty-git
+    - arcolinux-btop-git
     - arcolinux-foot-git
     - arcolinux-kitty-git
     - arcolinux-pywal-cache-git
@@ -59,6 +105,7 @@
     - arcolinux-wayfire-git
     - arcolinux-wayland-app-hooks-git
     - arconet-xfce
+    - btop
     - feh
     - foot
     - grim
@@ -67,9 +114,9 @@
     - mako
     - micro
     - pamixer
-    - picom-git
     - polkit-gnome
     - pulsemixer
+    - python-pywal
     - rofi-lbonn-wayland
     - slurp
     - swaybg
@@ -89,3 +136,4 @@
     - wl-clipboard
     - wofi
     - xfce4-terminal
+    - yad
