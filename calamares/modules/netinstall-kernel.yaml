@@ -33,7 +33,7 @@
     - linux-zen
     - linux-zen-headers
 - name: "Linux-cachyos kernel"
-  description: "Installs the cachys kernel"
+  description: "Installs the cachyos kernel"
   critical: false
   hidden: false
   selected: false
