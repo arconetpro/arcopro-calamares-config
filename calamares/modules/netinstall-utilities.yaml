@@ -137,7 +137,6 @@
     - gtop
     - hddtemp
     - htop
-    - hw-probe
     - inxi
     - lm_sensors
     - lshw
