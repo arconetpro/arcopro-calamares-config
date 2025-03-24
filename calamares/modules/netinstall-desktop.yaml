@@ -313,7 +313,7 @@
     - thunar-archive-plugin
     - thunar-volman
     - volumeicon
-    - xdgmenumaker
+    - xdgmenumaker-git
     - xfce4-notifyd
     - xfce4-power-manager
     - xfce4-screenshooter
@@ -445,7 +445,7 @@
     - thunar-archive-plugin
     - thunar-volman
     - volumeicon
-    - xdgmenumaker
+    - xdgmenumaker-git
     - xfce4-notifyd
     - xfce4-power-manager
     - xfce4-screenshooter
@@ -480,7 +480,7 @@
     - thunar-archive-plugin
     - thunar-volman
     - volumeicon
-    - xdgmenumaker
+    - xdgmenumaker-git
     - xfce4-notifyd
     - xfce4-power-manager
     - xfce4-screenshooter
